@@ -31,7 +31,7 @@ let word = "radar"
 console.log(palindrome('radar'));
 console.log(palindrome('month'));
     
-
+//jk
 }
 //
 // Your functions here...
